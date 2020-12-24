@@ -1,0 +1,227 @@
+[
+ {
+   "affiliatePayoutID": "AFFILLIATE-00001",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": null,
+   "affiliateSignups": 522,
+   "affiliatePlan": "TIER 2",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "REQUESTED"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00002",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 522,
+   "affiliatePlan": "TIER 2",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00003",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00004",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00005",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "CREDIT"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00006",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "CREDIT"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00007",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00008",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00009",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00010",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 127,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00011",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 114,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "REJECTED"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00012",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00013",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00014",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00015",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00016",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00017",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00018",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00019",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00020",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00021",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00022",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00023",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00024",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ },
+ {
+   "affiliatePayoutID": "AFFILLIATE-00025",
+   "affiliatePayoutCreated": 43831,
+   "affiliatePayoutCompleted": 43837,
+   "affiliateSignups": 11,
+   "affiliatePlan": "TIER 1",
+   "affiliatePayoutComission": 111.11,
+   "affiliatePayoutStatus": "PAID"
+ }
+]
