@@ -1,227 +1,252 @@
 [
  {
    "affiliatePayoutID": "AFFILLIATE-00001",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": null,
-   "affiliateSignups": 522,
-   "affiliatePlan": "TIER 2",
+   "affiliatePayoutCreated": 1567416600000,
+   "affiliatePayoutCompleted": 1567762200000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "REQUESTED"
+   "affiliatePayoutStatus": "REQUESTED",
+   "affiliatePayoutMessage": "We are reviewing your request"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00002",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 522,
-   "affiliatePlan": "TIER 2",
+   "affiliatePayoutCreated": 1568021400000,
+   "affiliatePayoutCompleted": 1568367000000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "REJECTED",
+   "affiliatePayoutMessage": "Affiliate not verified"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00003",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1568712600000,
+   "affiliatePayoutCompleted": 1568971800000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00004",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1569403800000,
+   "affiliatePayoutCompleted": 1569576600000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00005",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1570095000000,
+   "affiliatePayoutCompleted": 1570181400000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "CREDIT"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00006",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1570786200000,
+   "affiliatePayoutCompleted": 1570786200000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "CREDIT"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00007",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1571477400000,
+   "affiliatePayoutCompleted": 1571391000000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00008",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1572168600000,
+   "affiliatePayoutCompleted": 1571995800000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00009",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1572859800000,
+   "affiliatePayoutCompleted": 1572600600000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00010",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 127,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1573551000000,
+   "affiliatePayoutCompleted": 1573205400000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00011",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 114,
-   "affiliatePlan": "TIER 1",
+   "affiliatePayoutCreated": 1574242200000,
+   "affiliatePayoutCompleted": 1573810200000,
+   "affiliateSignups": 11,
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "REJECTED"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00012",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
+   "affiliatePayoutCreated": 1574933400000,
+   "affiliatePayoutCompleted": 1574415000000,
    "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00013",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
+   "affiliatePayoutCreated": 1575624600000,
+   "affiliatePayoutCompleted": 1575019800000,
    "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00014",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
+   "affiliatePayoutCreated": 1576315800000,
+   "affiliatePayoutCompleted": 1575624600000,
    "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
+   "affiliatePlan": 0.1,
    "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00015",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1577007000000,
+   "affiliatePayoutCompleted": 1576229400000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00016",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1577698200000,
+   "affiliatePayoutCompleted": 1576834200000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00017",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1578389400000,
+   "affiliatePayoutCompleted": 1577439000000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00018",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1579080600000,
+   "affiliatePayoutCompleted": 1578043800000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00019",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1579771800000,
+   "affiliatePayoutCompleted": 1578648600000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00020",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1580463000000,
+   "affiliatePayoutCompleted": 1579253400000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00021",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1581154200000,
+   "affiliatePayoutCompleted": 1579858200000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00022",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1581845400000,
+   "affiliatePayoutCompleted": 1580463000000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00023",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1582536600000,
+   "affiliatePayoutCompleted": 1581067800000,
+   "affiliateSignups": 127,
+   "affiliatePlan": 0.15,
+   "affiliatePayoutComission": 444.44,
+   "affiliatePayoutStatus": "PAID",
+   "affiliatePayoutMessage": "Your funds have been transferred"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00024",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1583227800000,
+   "affiliatePayoutCompleted": 1581672600000,
+   "affiliateSignups": 522,
+   "affiliatePlan": 0.2,
+   "affiliatePayoutComission": 777.77,
+   "affiliatePayoutStatus": "CREDIT",
+   "affiliatePayoutMessage": "Your funds have been credited"
  },
  {
    "affiliatePayoutID": "AFFILLIATE-00025",
-   "affiliatePayoutCreated": 43831,
-   "affiliatePayoutCompleted": 43837,
-   "affiliateSignups": 11,
-   "affiliatePlan": "TIER 1",
-   "affiliatePayoutComission": 111.11,
-   "affiliatePayoutStatus": "PAID"
+   "affiliatePayoutCreated": 1583919000000,
+   "affiliatePayoutCompleted": 1582277400000,
+   "affiliateSignups": 522,
+   "affiliatePlan": 0.2,
+   "affiliatePayoutComission": 777.77,
+   "affiliatePayoutStatus": "CREDIT",
+   "affiliatePayoutMessage": "Your funds have been credited"
  }
 ]
