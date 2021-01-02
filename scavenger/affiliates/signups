@@ -1,0 +1,802 @@
+[
+  {
+    "affiliateSignupEmail": "hmbrand@gmail.com",
+    "affiliateSignupCreated": 1567362600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 16.76,
+    "affiliateSignupVerifiedPayout": 14.85,
+    "affiliateSignupTotalPayout": 780.06
+  },
+  {
+    "affiliateSignupEmail": "luvirini@yahoo.com",
+    "affiliateSignupCreated": 1567449000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.96,
+    "affiliateSignupVerifiedPayout": 10.15,
+    "affiliateSignupTotalPayout": 819.81
+  },
+  {
+    "affiliateSignupEmail": "leocharre@att.net",
+    "affiliateSignupCreated": 1567535400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 3.08,
+    "affiliateSignupVerifiedPayout": 18.66,
+    "affiliateSignupTotalPayout": 697.64
+  },
+  {
+    "affiliateSignupEmail": "raides@hotmail.com",
+    "affiliateSignupCreated": 1567621800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.78,
+    "affiliateSignupVerifiedPayout": 9.87,
+    "affiliateSignupTotalPayout": 466.12
+  },
+  {
+    "affiliateSignupEmail": "fmerges@mac.com",
+    "affiliateSignupCreated": 1567708200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 19.53,
+    "affiliateSignupVerifiedPayout": 3.93,
+    "affiliateSignupTotalPayout": 187.47
+  },
+  {
+    "affiliateSignupEmail": "giafly@yahoo.com",
+    "affiliateSignupCreated": 1567794600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 5.14,
+    "affiliateSignupVerifiedPayout": 11.98,
+    "affiliateSignupTotalPayout": 105.29
+  },
+  {
+    "affiliateSignupEmail": "raides@hotmail.com",
+    "affiliateSignupCreated": 1567881000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.34,
+    "affiliateSignupVerifiedPayout": 14.92,
+    "affiliateSignupTotalPayout": 548.37
+  },
+  {
+    "affiliateSignupEmail": "jaxweb@mac.com",
+    "affiliateSignupCreated": 1567967400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.39,
+    "affiliateSignupVerifiedPayout": 8.56,
+    "affiliateSignupTotalPayout": 750.37
+  },
+  {
+    "affiliateSignupEmail": "zeller@sbcglobal.net",
+    "affiliateSignupCreated": 1568053800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 0.31,
+    "affiliateSignupVerifiedPayout": 15.89,
+    "affiliateSignupTotalPayout": 89.76
+  },
+  {
+    "affiliateSignupEmail": "jadavis@aol.com",
+    "affiliateSignupCreated": 1568140200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 14.45,
+    "affiliateSignupVerifiedPayout": 7.62,
+    "affiliateSignupTotalPayout": 583.35
+  },
+  {
+    "affiliateSignupEmail": "tubajon@me.com",
+    "affiliateSignupCreated": 1568226600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.85,
+    "affiliateSignupVerifiedPayout": 8.85,
+    "affiliateSignupTotalPayout": 924.06
+  },
+  {
+    "affiliateSignupEmail": "jadavis@icloud.com",
+    "affiliateSignupCreated": 1568313000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 15.55,
+    "affiliateSignupVerifiedPayout": 18.31,
+    "affiliateSignupTotalPayout": 682.47
+  },
+  {
+    "affiliateSignupEmail": "sherzodr@sbcglobal.net",
+    "affiliateSignupCreated": 1568399400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.74,
+    "affiliateSignupVerifiedPayout": 7.58,
+    "affiliateSignupTotalPayout": 1061.41
+  },
+  {
+    "affiliateSignupEmail": "animats@comcast.net",
+    "affiliateSignupCreated": 1568485800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.49,
+    "affiliateSignupVerifiedPayout": 16.7,
+    "affiliateSignupTotalPayout": 584.01
+  },
+  {
+    "affiliateSignupEmail": "bowmanbs@att.net",
+    "affiliateSignupCreated": 1568572200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.2,
+    "affiliateSignupVerifiedPayout": 11.15,
+    "affiliateSignupTotalPayout": 692.44
+  },
+  {
+    "affiliateSignupEmail": "iamcal@sbcglobal.net",
+    "affiliateSignupCreated": 1568658600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.23,
+    "affiliateSignupVerifiedPayout": 6.9,
+    "affiliateSignupTotalPayout": 877.57
+  },
+  {
+    "affiliateSignupEmail": "jespley@yahoo.com",
+    "affiliateSignupCreated": 1568745000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 12.28,
+    "affiliateSignupVerifiedPayout": 15.75,
+    "affiliateSignupTotalPayout": 482.62
+  },
+  {
+    "affiliateSignupEmail": "stern@outlook.com",
+    "affiliateSignupCreated": 1568831400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.86,
+    "affiliateSignupVerifiedPayout": 7.33,
+    "affiliateSignupTotalPayout": 551.05
+  },
+  {
+    "affiliateSignupEmail": "timtroyr@msn.com",
+    "affiliateSignupCreated": 1568917800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.18,
+    "affiliateSignupVerifiedPayout": 16.41,
+    "affiliateSignupTotalPayout": 224.23
+  },
+  {
+    "affiliateSignupEmail": "loscar@hotmail.com",
+    "affiliateSignupCreated": 1569004200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.96,
+    "affiliateSignupVerifiedPayout": 8.76,
+    "affiliateSignupTotalPayout": 459.55
+  },
+  {
+    "affiliateSignupEmail": "jonathan@msn.com",
+    "affiliateSignupCreated": 1569090600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 19.78,
+    "affiliateSignupVerifiedPayout": 7.1,
+    "affiliateSignupTotalPayout": 238.35
+  },
+  {
+    "affiliateSignupEmail": "lahvak@me.com",
+    "affiliateSignupCreated": 1569177000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 5.03,
+    "affiliateSignupVerifiedPayout": 8.36,
+    "affiliateSignupTotalPayout": 614.33
+  },
+  {
+    "affiliateSignupEmail": "trieuvan@mac.com",
+    "affiliateSignupCreated": 1569263400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.33,
+    "affiliateSignupVerifiedPayout": 6.51,
+    "affiliateSignupTotalPayout": 990.24
+  },
+  {
+    "affiliateSignupEmail": "pavel@msn.com",
+    "affiliateSignupCreated": 1569349800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.77,
+    "affiliateSignupVerifiedPayout": 11.69,
+    "affiliateSignupTotalPayout": 387.62
+  },
+  {
+    "affiliateSignupEmail": "temmink@outlook.com",
+    "affiliateSignupCreated": 1569436200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.97,
+    "affiliateSignupVerifiedPayout": 11.27,
+    "affiliateSignupTotalPayout": 612.23
+  },
+  {
+    "affiliateSignupEmail": "bflong@live.com",
+    "affiliateSignupCreated": 1569522600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.36,
+    "affiliateSignupVerifiedPayout": 10.37,
+    "affiliateSignupTotalPayout": 579.42
+  },
+  {
+    "affiliateSignupEmail": "cumarana@outlook.com",
+    "affiliateSignupCreated": 1569609000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 13.61,
+    "affiliateSignupVerifiedPayout": 12.04,
+    "affiliateSignupTotalPayout": 405.16
+  },
+  {
+    "affiliateSignupEmail": "scarolan@att.net",
+    "affiliateSignupCreated": 1569695400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.57,
+    "affiliateSignupVerifiedPayout": 13.43,
+    "affiliateSignupTotalPayout": 137.58
+  },
+  {
+    "affiliateSignupEmail": "isotopian@hotmail.com",
+    "affiliateSignupCreated": 1569781800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.17,
+    "affiliateSignupVerifiedPayout": 5.81,
+    "affiliateSignupTotalPayout": 213.51
+  },
+  {
+    "affiliateSignupEmail": "fallorn@gmail.com",
+    "affiliateSignupCreated": 1569868200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 7.72,
+    "affiliateSignupVerifiedPayout": 9.68,
+    "affiliateSignupTotalPayout": 932.62
+  },
+  {
+    "affiliateSignupEmail": "ehood@hotmail.com",
+    "affiliateSignupCreated": 1569954600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 6.87,
+    "affiliateSignupVerifiedPayout": 11.33,
+    "affiliateSignupTotalPayout": 814.14
+  },
+  {
+    "affiliateSignupEmail": "agolomsh@verizon.net",
+    "affiliateSignupCreated": 1570041000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 6.52,
+    "affiliateSignupVerifiedPayout": 9.26,
+    "affiliateSignupTotalPayout": 1059.57
+  },
+  {
+    "affiliateSignupEmail": "smpeters@sbcglobal.net",
+    "affiliateSignupCreated": 1570127400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 1.22,
+    "affiliateSignupVerifiedPayout": 14.23,
+    "affiliateSignupTotalPayout": 334.73
+  },
+  {
+    "affiliateSignupEmail": "twoflower@optonline.net",
+    "affiliateSignupCreated": 1570213800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.22,
+    "affiliateSignupVerifiedPayout": 3.94,
+    "affiliateSignupTotalPayout": 616.21
+  },
+  {
+    "affiliateSignupEmail": "ideguy@hotmail.com",
+    "affiliateSignupCreated": 1570300200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.71,
+    "affiliateSignupVerifiedPayout": 13.47,
+    "affiliateSignupTotalPayout": 784.99
+  },
+  {
+    "affiliateSignupEmail": "parksh@verizon.net",
+    "affiliateSignupCreated": 1570386600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 10.13,
+    "affiliateSignupVerifiedPayout": 17.86,
+    "affiliateSignupTotalPayout": 456.8
+  },
+  {
+    "affiliateSignupEmail": "sjava@outlook.com",
+    "affiliateSignupCreated": 1570473000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 1.25,
+    "affiliateSignupVerifiedPayout": 15.15,
+    "affiliateSignupTotalPayout": 1038.41
+  },
+  {
+    "affiliateSignupEmail": "bjornk@optonline.net",
+    "affiliateSignupCreated": 1570559400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 18.57,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 556.45
+  },
+  {
+    "affiliateSignupEmail": "telbij@live.com",
+    "affiliateSignupCreated": 1570645800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 1.15,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 788.93
+  },
+  {
+    "affiliateSignupEmail": "hampton@live.com",
+    "affiliateSignupCreated": 1570732200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 0.77,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 981.4
+  },
+  {
+    "affiliateSignupEmail": "sartak@hotmail.com",
+    "affiliateSignupCreated": 1570818600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 16.72,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 332.81
+  },
+  {
+    "affiliateSignupEmail": "ozawa@outlook.com",
+    "affiliateSignupCreated": 1570905000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 6.08,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 822.88
+  },
+  {
+    "affiliateSignupEmail": "schumer@att.net",
+    "affiliateSignupCreated": 1570991400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.5,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 95.74
+  },
+  {
+    "affiliateSignupEmail": "cgarcia@hotmail.com",
+    "affiliateSignupCreated": 1571077800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.93,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 628.54
+  },
+  {
+    "affiliateSignupEmail": "snunez@mac.com",
+    "affiliateSignupCreated": 1571164200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 13.69,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 726.51
+  },
+  {
+    "affiliateSignupEmail": "geeber@mac.com",
+    "affiliateSignupCreated": 1571250600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.05,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 835.18
+  },
+  {
+    "affiliateSignupEmail": "caronni@verizon.net",
+    "affiliateSignupCreated": 1571337000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 3.72,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 200.37
+  },
+  {
+    "affiliateSignupEmail": "fairbank@mac.com",
+    "affiliateSignupCreated": 1571423400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 12.11,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 406.12
+  },
+  {
+    "affiliateSignupEmail": "mccurley@yahoo.ca",
+    "affiliateSignupCreated": 1571509800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 15.21,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 640.94
+  },
+  {
+    "affiliateSignupEmail": "oechslin@msn.com",
+    "affiliateSignupCreated": 1571596200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 3.24,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 1085.54
+  },
+  {
+    "affiliateSignupEmail": "burniske@optonline.net",
+    "affiliateSignupCreated": 1571682600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 13.94,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 322.19
+  },
+  {
+    "affiliateSignupEmail": "aegreene@mac.com",
+    "affiliateSignupCreated": 1571769000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.1,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 504.22
+  },
+  {
+    "affiliateSignupEmail": "seasweb@att.net",
+    "affiliateSignupCreated": 1571855400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 15.89,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 13.51
+  },
+  {
+    "affiliateSignupEmail": "scotfl@gmail.com",
+    "affiliateSignupCreated": 1571941800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 10.29,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 678.9
+  },
+  {
+    "affiliateSignupEmail": "luebke@aol.com",
+    "affiliateSignupCreated": 1572028200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 16.36,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 974.87
+  },
+  {
+    "affiliateSignupEmail": "hillct@live.com",
+    "affiliateSignupCreated": 1572114600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 7.15,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 652.1
+  },
+  {
+    "affiliateSignupEmail": "gknauss@yahoo.ca",
+    "affiliateSignupCreated": 1572201000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.47,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 241.26
+  },
+  {
+    "affiliateSignupEmail": "kdawson@gmail.com",
+    "affiliateSignupCreated": 1572287400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 3.36,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 581.31
+  },
+  {
+    "affiliateSignupEmail": "gomor@gmail.com",
+    "affiliateSignupCreated": 1572373800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.97,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 846.85
+  },
+  {
+    "affiliateSignupEmail": "grinder@optonline.net",
+    "affiliateSignupCreated": 1572460200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.83,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 903.86
+  },
+  {
+    "affiliateSignupEmail": "dobey@mac.com",
+    "affiliateSignupCreated": 1572546600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.23,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 687.92
+  },
+  {
+    "affiliateSignupEmail": "credmond@msn.com",
+    "affiliateSignupCreated": 1572633000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.18,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 610.71
+  },
+  {
+    "affiliateSignupEmail": "campware@me.com",
+    "affiliateSignupCreated": 1572719400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 14.17,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 1001.49
+  },
+  {
+    "affiliateSignupEmail": "peoplesr@optonline.net",
+    "affiliateSignupCreated": 1572805800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 6.44,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 296.14
+  },
+  {
+    "affiliateSignupEmail": "formis@aol.com",
+    "affiliateSignupCreated": 1572892200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 11.15,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 939.88
+  },
+  {
+    "affiliateSignupEmail": "daveed@yahoo.com",
+    "affiliateSignupCreated": 1572978600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 8.24,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 503.95
+  },
+  {
+    "affiliateSignupEmail": "jfreedma@sbcglobal.net",
+    "affiliateSignupCreated": 1573065000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.97,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 787.5
+  },
+  {
+    "affiliateSignupEmail": "sopwith@verizon.net",
+    "affiliateSignupCreated": 1573151400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 14.69,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 572.8
+  },
+  {
+    "affiliateSignupEmail": "weazelman@yahoo.com",
+    "affiliateSignupCreated": 1573237800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 17.32,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 634.11
+  },
+  {
+    "affiliateSignupEmail": "phish@verizon.net",
+    "affiliateSignupCreated": 1573324200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 1.42,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 640.96
+  },
+  {
+    "affiliateSignupEmail": "shaffei@msn.com",
+    "affiliateSignupCreated": 1573410600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 3.22,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 823.65
+  },
+  {
+    "affiliateSignupEmail": "solomon@aol.com",
+    "affiliateSignupCreated": 1573497000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 10.1,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 882.14
+  },
+  {
+    "affiliateSignupEmail": "lamky@comcast.net",
+    "affiliateSignupCreated": 1573583400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 17.16,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 416.32
+  },
+  {
+    "affiliateSignupEmail": "cremonini@yahoo.ca",
+    "affiliateSignupCreated": 1573669800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 12.47,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 374.96
+  },
+  {
+    "affiliateSignupEmail": "markjugg@comcast.net",
+    "affiliateSignupCreated": 1573756200000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 7.43,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 900.37
+  },
+  {
+    "affiliateSignupEmail": "johnbob@icloud.com",
+    "affiliateSignupCreated": 1573842600000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 4.24,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 711.09
+  },
+  {
+    "affiliateSignupEmail": "gordonjcp@gmail.com",
+    "affiliateSignupCreated": 1573929000000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 9.84,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 702.44
+  },
+  {
+    "affiliateSignupEmail": "zeller@sbcglobal.net",
+    "affiliateSignupCreated": 1574015400000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 10.09,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 530.71
+  },
+  {
+    "affiliateSignupEmail": "gfody@yahoo.com",
+    "affiliateSignupCreated": 1574101800000,
+    "affiliateSignupStatus": "active",
+    "affiliateSignupPendingPayout": 12.07,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 822.29
+  },
+  {
+    "affiliateSignupEmail": "tmccarth@outlook.com",
+    "affiliateSignupCreated": 1574188200000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 6.85,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 459.53
+  },
+  {
+    "affiliateSignupEmail": "aschmitz@me.com",
+    "affiliateSignupCreated": 1574274600000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 861.29
+  },
+  {
+    "affiliateSignupEmail": "sethbrown@hotmail.com",
+    "affiliateSignupCreated": 1574361000000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 529.07
+  },
+  {
+    "affiliateSignupEmail": "cvrcek@hotmail.com",
+    "affiliateSignupCreated": 1574447400000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 249.91
+  },
+  {
+    "affiliateSignupEmail": "tfinniga@hotmail.com",
+    "affiliateSignupCreated": 1574533800000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 593.82
+  },
+  {
+    "affiliateSignupEmail": "monopole@yahoo.com",
+    "affiliateSignupCreated": 1574620200000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 595.46
+  },
+  {
+    "affiliateSignupEmail": "stewwy@comcast.net",
+    "affiliateSignupCreated": 1574706600000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 674.02
+  },
+  {
+    "affiliateSignupEmail": "konst@optonline.net",
+    "affiliateSignupCreated": 1574793000000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 603.85
+  },
+  {
+    "affiliateSignupEmail": "isotopian@outlook.com",
+    "affiliateSignupCreated": 1574879400000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 500.89
+  },
+  {
+    "affiliateSignupEmail": "kidehen@me.com",
+    "affiliateSignupCreated": 1574965800000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 646.61
+  },
+  {
+    "affiliateSignupEmail": "munjal@optonline.net",
+    "affiliateSignupCreated": 1575052200000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 494.36
+  },
+  {
+    "affiliateSignupEmail": "wiseb@msn.com",
+    "affiliateSignupCreated": 1575138600000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 364.52
+  },
+  {
+    "affiliateSignupEmail": "cumarana@optonline.net",
+    "affiliateSignupCreated": 1575225000000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 1014.3
+  },
+  {
+    "affiliateSignupEmail": "garland@msn.com",
+    "affiliateSignupCreated": 1575311400000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 564.17
+  },
+  {
+    "affiliateSignupEmail": "erynf@sbcglobal.net",
+    "affiliateSignupCreated": 1575397800000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 824.76
+  },
+  {
+    "affiliateSignupEmail": "jcholewa@optonline.net",
+    "affiliateSignupCreated": 1575484200000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 274.49
+  },
+  {
+    "affiliateSignupEmail": "nanop@icloud.com",
+    "affiliateSignupCreated": 1575570600000,
+    "affiliateSignupStatus": "inactive",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 567.62
+  },
+  {
+    "affiliateSignupEmail": "tsuruta@sbcglobal.net",
+    "affiliateSignupCreated": 1575657000000,
+    "affiliateSignupStatus": "cancel",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 519.68
+  },
+  {
+    "affiliateSignupEmail": "wonderkid@sbcglobal.net",
+    "affiliateSignupCreated": 1575743400000,
+    "affiliateSignupStatus": "cancel",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 810.69
+  },
+  {
+    "affiliateSignupEmail": "sabren@optonline.net",
+    "affiliateSignupCreated": 1575829800000,
+    "affiliateSignupStatus": "cancel",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 549.44
+  },
+  {
+    "affiliateSignupEmail": "gtaylor@att.net",
+    "affiliateSignupCreated": 1575916200000,
+    "affiliateSignupStatus": "cancel",
+    "affiliateSignupPendingPayout": 0,
+    "affiliateSignupVerifiedPayout": 0,
+    "affiliateSignupTotalPayout": 289.11
+  }
+]
